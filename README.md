@@ -1,5 +1,10 @@
 ### Hi there 👋
-I’m currently working on [Upwork](https://www.upwork.com/fl/~01ba7a806e22fd3cdd)
+🧑‍💻 I’m currently working on [Upwork](https://www.upwork.com/fl/~01ba7a806e22fd3cdd)
+🚀 I’m currently learning Swift/ SwiftUi
+📇 Reach me at [qais.qsothman@gmail.com]
+
+
+
 
 <!--
 **qaisothman/qaisothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
