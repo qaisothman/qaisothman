@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on [I'm an inline-style link] (https://www.upwork.com/fl/~01ba7a806e22fd3cdd)
+I’m currently working on [Upwork](https://www.upwork.com/fl/~01ba7a806e22fd3cdd)
 
 <!--
 **qaisothman/qaisothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
