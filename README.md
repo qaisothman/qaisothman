@@ -4,7 +4,7 @@
 #### 📇 Reach me at [qais.qsothman@gmail.com]
 #### 👨‍💼 Check my [CV](https://github.com/qaisothman/qaisothman/blob/main/qais_cv.pdf)
 
-![qaisothman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=qaisothman&theme=blue-green&hide_border=true)
+![qaisothman's Stats](https://github-readme-stats.vercel.app/api?username=qaisothman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
