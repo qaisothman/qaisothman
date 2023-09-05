@@ -3,6 +3,8 @@
 #### 🚀 I’m currently learning Swift/ SwiftUi
 #### 📇 Reach me at qais.qsothman@gmail.com
 #### 👨‍💼 Check my [CV](https://github.com/qaisothman/qaisothman/blob/main/qais_cv.pdf)
+#### 👨‍💼 Check my [Portfolio](https://qaisothman.dev)
+
 
 
 
