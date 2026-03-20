@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### 🧑‍💻 I’m currently freelancing on [Upwork](https://www.upwork.com/fl/~01ba7a806e22fd3cdd)
 #### 📇 Reach me at qais.qsothman@gmail.com
-#### 👨‍💼 Check my [CV](https://github.com/qaisothman/qaisothman/blob/main/cv.pdf), [Portfolio](https://qaisothman.dev)
+#### 👨‍💼 Check my [Portfolio](https://qaisothman.dev)
 
 
 
